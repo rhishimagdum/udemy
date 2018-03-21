@@ -1,0 +1,21 @@
+package com.rhishi.first;
+
+	//Sort the array
+	// Search the element
+	// Return result
+public class BinarySearchImpl {
+	
+	
+	private SortAlgorithm sortAlgorithm;
+	
+	public BinarySearchImpl(SortAlgorithm sortAlgorithm) {
+		super();
+		this.sortAlgorithm = sortAlgorithm;
+	}
+
+	public int binarySearch(int[] numbers, int numberToSearch) {
+		int[] sortedNumbers = sortAlgorithm.sort(numbers);
+		return 3;
+	}
+
+}

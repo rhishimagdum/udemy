@@ -1,0 +1,8 @@
+package com.rhishi.first;
+
+public class QuickSortAlgorithm implements SortAlgorithm{
+	public int[] sort(int[] array) {
+		// Logic for quick sort
+		 return array;
+	}
+}

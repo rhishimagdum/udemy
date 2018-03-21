@@ -1,0 +1,11 @@
+package com.rhishi.first;
+
+import org.springframework.stereotype.Component;
+
+//@Component
+public class BubbleSortAlgorithm implements SortAlgorithm {
+	public int[] sort(int[] array) {
+		// Logic for bubble sort
+		 return array;
+	}
+}

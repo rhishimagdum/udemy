@@ -1,0 +1,8 @@
+package com.rhishi.first;
+
+public class BinarySearchImpl {
+	// Sort the array
+	// Search the element
+	// Return result
+
+}

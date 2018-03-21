@@ -1,0 +1,14 @@
+package com.rhishi.first;
+
+public class BinarySearchImpl {
+	// Sort the array
+	// Search the element
+	// Return result
+	
+	public int binarySearch(int[] numbers, int numberToSearch) {
+		// Implement sorting logic
+		// Bubble Sort algo
+		return 3;
+	}
+
+}
